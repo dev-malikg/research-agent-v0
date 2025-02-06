@@ -1,0 +1,31 @@
+# Web Scraping and Browser Automation
+selenium>=4.0.0
+beautifulsoup4>=4.9.3
+requests>=2.25.1
+
+# JSON Processing
+json5>=0.9.5
+
+# Date and Time
+python-dateutil>=2.8.2
+
+# URL Processing
+urllib3>=1.26.7
+
+# Chrome WebDriver (make sure to have Chrome browser installed)
+webdriver-manager>=3.8.0
+
+# Optional but recommended for better HTML parsing
+lxml>=4.9.0
+
+# For handling environment variables (if needed)
+python-dotenv>=0.19.0
+
+# For API interactions
+aiohttp>=3.8.1
+
+sentence-transformers>=2.5.0
+chromadb>=0.4.24
+ollama>=0.1.6
+bs4>=0.0.1 
+chroma-migrate
