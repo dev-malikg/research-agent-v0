@@ -26,7 +26,7 @@ A sophisticated research automation system that leverages multiple specialized A
 git clone https://github.com/dev-malikg/research-agent-v0.git
 
 # Navigate to project directory
-cd research-agent
+cd research-agent-v0
 
 # Create and activate virtual environment
 python -m venv venv
