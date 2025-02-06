@@ -23,7 +23,7 @@ A sophisticated research automation system that leverages multiple specialized A
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/research-agent.git
+git clone https://github.com/dev-malikg/research-agent-v0.git
 
 # Navigate to project directory
 cd research-agent
